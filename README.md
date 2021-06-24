@@ -158,7 +158,7 @@ With the most facilities.
 
 - 💪 Site : [@m4nifest0 3](https://m4nifest0.shop)👊
 
- -💪 Channel Telegram : [@m4nifest0](https://t.me/M4nifest0)👊
+- 💪 Channel Telegram : [@m4nifest0](https://t.me/M4nifest0)👊
 
 - 📌 2021 💪
 
