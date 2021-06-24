@@ -179,7 +179,7 @@ With the most facilities.
 
 # See how it works v1.0.0
 ----------------------
-- 🔞 V1.0..0  https://youtu.be/VXVReLe_6eo
+- 🔞 V1.0..0  
 
 # How to ger:
 ----------------------
