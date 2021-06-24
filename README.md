@@ -142,17 +142,28 @@ With the most facilities.
 
 # How to get a license :
 ----------------------
-📌  Send a message to my ID to get the license 👇
-📌  ID Telegram [@hack4lx](https://t.me/hack4lx)
-📌  M4nifest0 Black Hat Hacking Team™💪
-📌  𝕿𝖍𝖎𝖘 𝕴𝖘 𝕿𝖍𝖊 𝓜4𝓷𝓲𝓯𝓮𝓼𝓽0 𝕿𝖊𝖆𝖒™
-📌  Author hack4lx 👊 
-💪 Site : [@m4nifest0 1](https://m4nifest0.com)👊
-💪 Site : [@m4nifest0 2](https://m4nifest0.group)👊
-💪 Site : [@m4nifest0 3](https://m4nifest0.shop)👊
-💪 Channel Telegram : [@m4nifest0](https://t.me/M4nifest0)👊
-📌 2021 💪
-📌 Version 1.0.0 💪
+- 📌 Send a message to my ID to get the license 👇
+
+- 📌 ID Telegram [@hack4lx](https://t.me/hack4lx)
+
+- 📌 M4nifest0 Black Hat Hacking Team™💪
+
+- 📌 𝕿𝖍𝖎𝖘 𝕴𝖘 𝕿𝖍𝖊 𝓜4𝓷𝓲𝓯𝓮𝓼𝓽0 𝕿𝖊𝖆𝖒™
+
+- 📌 Author [@hack4lx](https://t.me/hack4lx) 👊
+
+- 💪 Site : [@m4nifest0 1](https://m4nifest0.com)👊
+
+- 💪 Site : [@m4nifest0 2](https://m4nifest0.group)👊
+
+- 💪 Site : [@m4nifest0 3](https://m4nifest0.shop)👊
+
+ -💪 Channel Telegram : [@m4nifest0](https://t.me/M4nifest0)👊
+
+- 📌 2021 💪
+
+- 📌 Version 1.0.0 💪
+
 ----------------------
 # Note:
 ----------------------
