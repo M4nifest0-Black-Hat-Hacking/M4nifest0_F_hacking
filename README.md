@@ -3,80 +3,144 @@
 
 ##### Program Features
 ----------------------
-📌 I got the idea from this person[@xHak9x](https://github.com/xHak9x/fbi), I changed the software and prepared the best for the presentation
+- 📌 I got the idea from this person[@xHak9x](https://github.com/xHak9x/fbi), I changed the software and prepared the best for the presentation
 With the most facilities.
 
-📌  Runs on Windows, Linux, Mac, Thermox, Black Arch, Kali Linux, Ubuntu Server.
-📌  To run on Windows, you need to download and install the latest version of Ruby.
-📌 To run on Linux, Mac, Thermox, Black Arch, Kali Linux and Ubuntu Server, follow the instructions below and then proceed with the installation.
+- 📌 Runs on Windows, Linux, Mac, Thermox, Black Arch, Kali Linux, Ubuntu Server.
 
-📌 Installation instructions based on Linux, Mac, Thermox, Black Arch, Kali Linux, Ubuntu Server:
+- 📌 To run on Windows, you need to download and install the latest version of Ruby.
 
-📌 sudo apt-get update
-📌 gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
-📌 \curl -sSL https://get.rvm.io | bash -s stable --ruby --ignore-dotfiles
-📌 \curl -sSL https://get.rvm.io | bash -s stable --rails
-📌 gem install rails 5
-📌 source /usr/local/rvm/scripts/rvm
-📌 rvm reinstall ruby 2.7.1
-📌 pip install ruby
-📌 gem install thread
-📌 gem install requests
-******************
-📌 New version features:
-******************
-📌 Coding with the latest version of Ruby.
-📌 Get user information on Facebook.
-📌 Hacking a Facebook account in three ways.
-📌  Compactly.
-📌 Semi-compressed.
-📌 As a user.
-📌 To hack you need the right list password, it is better to do this in a virtual server.
-📌 Get your friends information.
-📌 Friends email information.
-📌 Friends phone information.
-📌 Get your friends' phone information.
-📌 Get friends' email information.
-📌 Check your Facebook account.
-📌 Control the number of your followers.
-📌 Control the number of your likes.
-📌 Control the number of your posts.
-📌 Automatically submit, edit or delete your posts.
-📌 Manage comments.
-📌 Automatically define and submit comments.
-📌 Manage group comments.
-📌 Manage your group.
-📌 Control spam.
-📌 Control the attackers and intruders.
-📌 Add a friend from the target ID.
-📌 Add friend from friend.
-📌 Add a friend from the file ID.
-📌 Follow the target ID.
-📌 Follow all friends.
-📌 Follow friend by friend.
-📌 Follow the BOT of the file ID.
-📌 Post to Facebook.
-📌 Share a friend's timeline.
-📌 Subscribe to a page.
-📌 is not a friend.
-📌 Follow Follow.
-📌 Write the situation.
-📌 Write a timetable.
-📌 Create a Word list.
-📌 Account Checker.
-📌 See my group list.
-📌 Get the user password.
-📌 Frofil image protector.
-📌 Download video.
-📌 Publish posts on pages.
-📌 Publish links on pages.
-📌 Comment post robot page.
-📌 Robot Page Spam Comments.
-📌 Robot page delete post.
-📌 Get the password to access the page.
+- 📌 To run on Linux, Mac, Thermox, Black Arch, Kali Linux and Ubuntu Server, follow the instructions below and then proceed with the installation.
+
+- 📌 Installation instructions based on Linux, Mac, Thermox, Black Arch, Kali Linux, Ubuntu Server:
+
+- 📌 sudo apt-get update
+
+- 📌 gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+
+- 📌 \curl -sSL https://get.rvm.io | bash -s stable --ruby --ignore-dotfiles
+
+- 📌 \curl -sSL https://get.rvm.io | bash -s stable --rails
+
+- 📌 install rails 5
+
+- 📌 source /usr/local/rvm/scripts/rvm
+
+- 📌 rvm reinstall ruby 2.7.1
+
+- 📌 pip install ruby
+
+- 📌 install thread
+
+- 📌 install requests
+
+----------------------
+#  New version features:
+---------------------
+
+- 📌 Coding with the latest version of Ruby.
+
+- 📌 Get user information on Facebook.
+
+- 📌 Hacking a Facebook account in three ways.
+
+- 📌 Compactly.
+
+- 📌 Semi-compressed.
+
+- 📌 As a user.
+
+- 📌 To hack you need the right list password, it is better to do this in a virtual server.
+
+- 📌 Get your friends information.
+
+- 📌 Friends email information.
+
+- 📌 Friends phone information.
+
+- 📌 Get your friends' phone information.
+
+- 📌 Get friends' email information.
+
+- 📌 Check your Facebook account.
+
+- 📌 Control the number of your followers.
+
+- 📌 Control the number of your likes.
+
+- 📌 Control the number of your posts.
+
+- 📌 Automatically submit, edit or delete your posts.
+
+- 📌 Manage comments.
+
+- 📌 Automatically define and submit comments.
+
+- 📌 Manage group comments.
+
+- 📌 Manage your group.
+
+- 📌 Control spam.
+
+- 📌 Control the attackers and intruders.
+
+- 📌 Add a friend from the target ID.
+
+- 📌 Add friend from friend.
+
+- 📌 Add a friend from the file ID.
+
+- 📌 Follow the target ID.
+
+- 📌 Follow all friends.
+
+- 📌 Follow friend by friend.
+
+- 📌 Follow the BOT of the file ID.
+
+- 📌 Post to Facebook.
+
+- 📌 Share a friend's timeline.
+
+- 📌 Subscribe to a page.
+
+- 📌 is not a friend.
+
+- 📌 Follow Follow.
+
+- 📌 Write the situation.
+
+- 📌 Write a timetable.
+
+- 📌 Create a Word list.
+
+- 📌 Account Checker.
+
+- 📌 See my group list.
+
+- 📌 Get the user password.
+
+- 📌 Frofil image protector.
+
+- 📌 Download video.
+
+- 📌 Publish posts on pages.
+
+- 📌 Publish links on pages.
+
+- 📌 Comment post robot page.
+
+- 📌 Robot Page Spam Comments.
+
+- 📌 Robot page delete post.
+
+- 📌 Get the password to access the page.
+
 # Note:
 ----------------------
 📌  A token tool was also added for convenience
+
+----------------------
 # Note:
 ----------------------
 - 📌 Do not use your original Facebook account.
