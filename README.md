@@ -136,8 +136,6 @@ With the most facilities.
 
 - 📌 Get the password to access the page.
 
-# Note:How to get a license
-----------------------
 📌  A token tool was also added for convenience.
 
 # How to get a license :
